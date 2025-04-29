@@ -169,11 +169,16 @@ img {
 
 .section_baner {
   max-width: 1440px;
+  /* background-image: linear-gradient(
+      rgba(46, 47, 66, 0.7),
+      rgba(46, 47, 66, 0.7)
+    ),
+    url('../images/people-office\ 1-min.jpg'); */
   background-image: linear-gradient(
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url('../images/people-office\ 1-min.jpg');
+    url(../images/people-office.jpg);
 
   background-repeat: no-repeat;
   background-position: center;
